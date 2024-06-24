@@ -1,16 +1,16 @@
-## Hi there 👋
+## ⛏️ Bem vindo ao meu Perfil 🌳
 
-<!--
-**DaviNJ94/DaviNJ94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Davi obviamente
 
-Here are some ideas to get you started:
+- 🖥️ Estou fazendo curso no [Alura](https://www.alura.com.br/)
+- 🌱 Aprendo atualmente JavaScript
+- 📫 Utilizo aqui para organizar, compartilhar meus projetos e
+  conhecer novos projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Você pode entrar em contato comigo 🚡
+
+0001123644263sp@al.educacao.sp.gov.br
+
+![](https://media.tenor.com/UCpxLa3u5SoAAAAM/cenx-axe.gif)
+
+
